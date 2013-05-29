@@ -1,4 +1,4 @@
-website_using_mezannine
+website_using_mezzanine
 =======================
 
 Playing with Mezzanine
